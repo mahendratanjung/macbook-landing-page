@@ -21,6 +21,7 @@ const App = () => {
       <Performance />
       <Features />
       <Highlights />
+      <Footer />
     </main>
   );
 };
